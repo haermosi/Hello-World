@@ -1,6 +1,3 @@
 <?php
-           echo "Hello World!"
+           echo "Hello World!";
 ?>
-
-
-#### 终于成功了
